@@ -3,7 +3,7 @@
 
 An open source of telegram Auto Caption bot
 
-- For demo you can check the <b>[AutoCaption_Ts_Bot](https://telegram.me/AutoCaption_Ts_Bot)</b>
+- For demo you can check the <b>[CLICK HERE](https://t.me/autocaption_wpm_bot)</b>
 
 # About Bot
 
@@ -51,7 +51,7 @@ I created this bot because it might be helpful for Channel Admins/Owners, so the
 
 I am not a progrommer though it is written in my own hands 
 If you have any suggestions to update the bot for better user friendly expirience you can contact me 
-Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
+Through [Cᴏɴᴛᴀᴄᴛ Mᴇ](https://telegram.me/mhd_thanzeer) or you can contact me directly.
 
 ## My Channel
 
@@ -62,4 +62,4 @@ Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
 
 <i>❤️ Thanks to everyone in this journey</i> 
 
-<i>🥰 Thanks to [Anonymous](https://telegram.me/Ns-AnoNymouS) for helping me in all the ways</i> 
+<i>🥰 join now[wolfpackmedia](https://telegram.me/wolfpackmedia) for helping me in all the ways</i> 
