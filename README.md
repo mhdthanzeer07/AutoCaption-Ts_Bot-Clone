@@ -14,10 +14,10 @@ This is a light weight and fastest Auto caption bot which can add caption prescr
 ### Commands
 
 ```
- /start - A command to start the bot
- /help  - A command to help you how to use the bot
- /about - A command to know about the bot
- /set_caption - A command to set your caption text
+ start - A command to start the bot
+ help  - A command to help you how to use the bot
+ about - A command to know about the bot
+ set_caption - A command to set your caption text
 ```
 #### Buttons
 
