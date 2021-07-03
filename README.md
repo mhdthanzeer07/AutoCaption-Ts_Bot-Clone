@@ -39,7 +39,7 @@ CAPTION_POSITION - Position of your caption
 ```
 You can deploy the bot using heroku
 
-- 🥰 Fork it and deploy
+- 🥰 https://t.me/mhd_thanzeer ⭐️
  
 - 👇 Press the deploy button.
 
