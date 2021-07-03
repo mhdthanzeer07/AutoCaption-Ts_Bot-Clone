@@ -55,7 +55,7 @@ Through [@Ts_Bots](https://telegram.me/Ts_bots) or you can contact me directly.
 
 ## My Channel
 
-<b>[@Ts_Bots](https://telegram.me/ts_bots)</b>
+<b>[@wolfpackmedia](https://t.me/wolfpackmedia)</b>
 
 
 ### Thanks to
